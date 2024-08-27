@@ -67,3 +67,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JuanMGlez/JuanMGlez/output/snake.svg" alt="Snake animation" />
+
+###
